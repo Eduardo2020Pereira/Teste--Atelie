@@ -1,0 +1,16 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 4
+
+## Media
+
+### Title
+panorama_4D8AA56E_443A_7D06_41AF_70171B9BCBB7.label = Panorama2
+panorama_4D9D0B8A_443A_7509_41BB_95C4C35A85C1.label = Panorama3
+panorama_4D9DF184_443A_55FA_41C6_9B9A686E46A7.label = Panorama4
+panorama_4F1E3418_443A_530A_41C9_61A106F2DECD.label = Panorama1
